@@ -1,0 +1,13 @@
+{
+    "name": "be.elab.survivalgametime",
+    "displayName": "Drag and drop best score UI",
+    "version": "0.0.1",
+    "unity": "2019.2",
+    "keywords": ["3D"],
+    "description": "Tool to have in a quick drag and drop a time best score in your game.",
+    "dependencies": {},
+    "author" : {
+        "name":"Eloi Stree"
+    },    
+    "category": "Script"
+  }
